@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stillness</string>
+    <string name="nav_today">Today</string>
+    <string name="nav_weekly">Weekly</string>
+    <string name="nav_apps">Apps</string>
+    <string name="nav_goals">Goals</string>
+    <string name="usage_access_title">Enable Usage Access</string>
+    <string name="usage_access_subtitle">Stillness reads on-device screen time directly from Android Digital Wellbeing stats. Your usage stays private on this device.</string>
+    <string name="usage_access_cta">Open Usage Settings</string>
+    <string name="sample_ai_notice">Sample preview — Live Gemini weekly coaching requires Firebase AI Logic.</string>
+</resources>

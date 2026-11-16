@@ -1,0 +1,6 @@
+{
+  "name": "Stillness",
+  "description": "Track mobile screen time, usage patterns, and receive weekly AI-powered digital well-being suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
