@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - main
-      # Lets this pull request run the workflow before it is on main.
-      # Publishing stays limited to pushes and manual runs on main.
-      - cursor/installable-apk-release-baf4
   workflow_dispatch:
   pull_request:
 
